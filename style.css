@@ -1,0 +1,44 @@
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    font-size: 25px;
+}
+hr{
+    background-color: black;
+    border: none;
+    height: 0.5px;
+}
+.image{
+    width: 300px;
+    height: 250px;
+}
+h3{
+ font-size: 25px;
+}
+.container{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(248, 6, 6);
+    display: relative;
+    text-align: center;
+    border: 1px solid black;
+}
+.div{
+    display: flex;
+}
+.container a{
+    border: 1px solid black;
+    width: 75px;
+    height: 40px;
+    background-color: yellow;
+}
+.container a:hover{
+    background-color: red;
+    color: white;
+    
+}
+
